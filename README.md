@@ -19,6 +19,6 @@ This repository is just my private bugtracker.
    - Pololu Dual VNH5019 Motor Driver Shield = 9(M1PWM), 10(M2PWM)
    - Arduino Uno = 3,5,6,9,10,11
 
-### delay()
-### millis()
-### micros()
+### millis() & micros()
+- Timer0 using TIMER0_OVF_vect
+- %USER%\AppData\Local\Arduino15\packages\uracoli\hardware\avr\0.5.2\cores\uracoli\wiring.c
