@@ -8,7 +8,7 @@ This repository is just my private bugtracker.
 - Rasenroboter (RadioFaro+VNH5019MotorShield) = 9,3->10(wire jumper at connector)
 - GartenbahnLok1K (RadioFaro+MotorShieldR3) = 3(PIN_PWMA)
 - Used Boards
-   - Radiofaro = 2,3,7,8,9
+   - Radiofaro = 2, 3, 7, 8, 9
       - 2 @ TIMER3B
       - 3 @ TIMER3C
       - 7 @ TIMER3A
@@ -20,5 +20,5 @@ This repository is just my private bugtracker.
    - Arduino Uno = 3,5,6,9,10,11
 
 ### millis() & micros()
-- Timer0 using TIMER0_OVF_vect
+- TIMER0_OVF_vect interrupt of TIMER0
 - %USER%\AppData\Local\Arduino15\packages\uracoli\hardware\avr\0.5.2\cores\uracoli\wiring.c
